@@ -4,7 +4,7 @@ Control games using real-time hand gestures via your webcam! This project uses *
 
 Refer mediapipe documentation for more features (https://ai.google.dev/edge/mediapipe/solutions/guide)
 
-[![Watch the video](https://youtu.be/ny_2nAty4D4)]
+[![Watch the video](https://img.youtube.com/vi/ny_2nAty4D4/0.jpg)](https://www.youtube.com/watch?v=ny_2nAty4D4)
 
 ## ✨ Features
 - Directional controls (Blinke once - up , Blink twice - down) via eyes
