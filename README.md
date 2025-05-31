@@ -2,6 +2,8 @@
 
 Control games using real-time hand gestures via your webcam! This project uses **MediaPipe**, **OpenCV**, and **PyAutoGUI** to detect eye blinks and trigger screen inputs like swipe up, down etc., using Android ADB tools to connect and send commands to mobile device.
 
+Refer mediapipe documentation for more features (https://ai.google.dev/edge/mediapipe/solutions/guide)
+
 ## ✨ Features
 - Directional controls (Blinke once - up , Blink twice - down) via eyes
 - Webcam-based gesture tracking
